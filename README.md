@@ -10,19 +10,45 @@ Markdown fue creado con el objetivo de ser fácil de escribir y de leer, y se co
 1. **Formato de texto:**
 Markdown permite aplicar formato a texto, como negritas, cursivas, encabezados y listas, utilizando caracteres especiales y convenciones de escritura simples. Por ejemplo, para crear un encabezado, simplemente se coloca un número de almohadilla (#) seguido del título.
 
-2. **Enlaces e imágenes:**
+- Párrafos y saltos de línea:
+Para generar un salto de linea e iniciar una frase en una siguiente línea se pulsa 2 veces la barra espaciadora seguida de la tecla Enter.
+
+`Markdown fue creado con el objetivo de ser fácil de escribir y de leer,`  
+`y se convierte en HTML u otros`  
+`formatos de presentación.` 
+
+Cada linea contiene 2 espacios en blanco al final para obtener el salto de linea.
+           
+- Encabezados (usamos almohadillas para cada nivel).
+  
+`# Encabezado 1`  
+`## Encabezado 2`  
+`### Encabezado 3`  
+`#### Encabezado 4`  
+`##### Encabezado 5`  
+`###### Encabezado 6`  
+
+Los encabezados pueden cerrarse con el mismo número de almohadillas cuya única finalidad es por estética.  
+`## Encabezado 2 ##`
+
+3. **Enlaces e imágenes:**
 Permite crear hipervínculos y agregar imágenes a tu documento de manera sencilla utilizando Markdown. Esto se hace mediante una combinación de corchetes y paréntesis, junto con la URL o la ruta de la imagen.
 
-3. **Listas:**
+4. **Listas:**
 Markdown admite listas ordenadas (enumeradas) y listas no ordenadas (viñetas), que se crean usando asteriscos, signos más o números seguidos de un espacio.
 
-4. **Citas:**
+5. **Citas:**
 Puedes citar texto utilizando el símbolo mayor que (>) antes de las líneas de texto que deseas citar.
 
-5. **Bloques de código:**
+`> "Desarrolla una pasión por aprender, si lo haces nunca dejaras de crecer." -`  
+Este sería su resultado:
+ 
+> "Desarrolla una pasión por aprender, si lo haces nunca dejaras de crecer." - 
+
+7. **Bloques de código:**
 Markdown facilita la inclusión de fragmentos de código en tu documento, lo que ayuda a resaltar la sintaxis y el formato de manera legible.
 
-6. **Tablas:**
+8. **Tablas:**
 Puedes crear tablas simples utilizando Markdown, con delimitadores de columna y filas.
 
 ----------
