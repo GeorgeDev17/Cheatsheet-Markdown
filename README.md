@@ -38,12 +38,22 @@ Permite crear hipervínculos y agregar imágenes a tu documento de manera sencil
 Markdown admite listas ordenadas (enumeradas) y listas no ordenadas (viñetas), que se crean usando asteriscos, signos más o números seguidos de un espacio.
 
 5. **Citas:**
-Puedes citar texto utilizando el símbolo mayor que (>) antes de las líneas de texto que deseas citar.
+Puedes citar texto utilizando el símbolo mayor que `(>)` antes de las líneas de texto que deseas citar.
 
-`> "Desarrolla una pasión por aprender, si lo haces nunca dejaras de crecer." -`  
+`> "Desarrolla una pasión por aprender, si lo haces nunca dejaras de crecer."`  
+
 Este sería su resultado:
  
-> "Desarrolla una pasión por aprender, si lo haces nunca dejaras de crecer." - 
+> "Desarrolla una pasión por aprender, si lo haces nunca dejaras de crecer." 
+
+Citas de varios parrafos, debereras añadir el mismo simbolo `>` al comienzo de cada parrafo.  
+
+`> "La pasión por aprender programación es el motor que impulsa a los innovadores de nuestro tiempo".`  
+`> "Cada línea de código que escribimos es un paso hacia adelante en la evolución de la sociedad y una expresión de nuestra búsqueda constante de conocimiento y excelencia." - Steve Jobs`  
+
+Este sería su resultado:  
+> "La pasión por aprender programación es el motor que impulsa a los innovadores de nuestro tiempo".  
+> "Cada línea de código que escribimos es un paso hacia adelante en la evolución de la sociedad y una expresión de nuestra búsqueda constante de conocimiento y excelencia." - Steve Jobs
 
 7. **Bloques de código:**
 Markdown facilita la inclusión de fragmentos de código en tu documento, lo que ayuda a resaltar la sintaxis y el formato de manera legible.
