@@ -10,6 +10,14 @@ Markdown fue creado con el objetivo de ser fácil de escribir y de leer, y se co
 1. **Formato de texto:**
 Markdown permite aplicar formato a texto, como negritas, cursivas, encabezados y listas, utilizando caracteres especiales y convenciones de escritura simples. Por ejemplo, para crear un encabezado, simplemente se coloca un número de almohadilla (#) seguido del título.
 
+Estilos:  
+Esto es texto en negrita. Usar 	** ** o  __ __ ` **negrita** `  
+Este texto está en cursiva. Usar * * o _ _ ` *cursiva* `
+Este texto está tachado Usar ~~ ~~ ` ~~Texto equivocado~~ `  
+Todo este texto está en negrita y cursiva. Usar *** *** ` ***Todo este texto es importante*** `
+Se trata de un texto de subíndice. Usar <sub> </sub>  ` <sub> Subindice </sub> `  
+Se trata de un texto de superíndice. Usar <sup> </sup> ` <sup> Superindice </sup> `  
+
 - Párrafos y saltos de línea:
 Para generar un salto de linea e iniciar una frase en una siguiente línea se pulsa 2 veces la barra espaciadora seguida de la tecla Enter.
 
