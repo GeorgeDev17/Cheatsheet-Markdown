@@ -18,6 +18,20 @@ Todo este texto está en negrita y cursiva. Usar *** *** ` ***Todo este texto es
 Se trata de un texto de subíndice. Usar <sub> </sub>  ` <sub> Subindice </sub> `  
 Se trata de un texto de superíndice. Usar <sup> </sup> ` <sup> Superindice </sup> `  
 
+***Alertas***
+Las alertas son mensajes de advertencia, información o nota que se destacan visualmente para captar la atención del lector.  
+Algunos ejemplos de alertas son:
+
+> [!NOTE]
+> Destaca información
+
+> [!IMPORTANT]
+> Información crucial o necesaria.
+
+> [!WARNING]
+> Contenido crítico que requiere atención inmediata (riesgo potencial).
+
+
 - Párrafos y saltos de línea:
 Para generar un salto de linea e iniciar una frase en una siguiente línea se pulsa 2 veces la barra espaciadora seguida de la tecla Enter.
 
