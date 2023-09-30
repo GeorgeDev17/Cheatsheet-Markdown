@@ -43,15 +43,6 @@ Resultado:
 > [!WARNING]
 > Contenido crítico que requiere atención inmediata (riesgo potencial). 
 
-`> [!NOTE]`
-`> Destaca información`
-
-`> [!IMPORTANT]`
-`> Información crucial o necesaria.`
-
-`> [!WARNING]`
-`> Contenido crítico que requiere atención inmediata (riesgo potencial).`
-
 ----------
 2. Párrafos y saltos de línea:
 Para generar un salto de linea e iniciar una frase en una siguiente línea se pulsa 2 veces la barra espaciadora seguida de la tecla Enter.
