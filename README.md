@@ -23,13 +23,13 @@ Se trata de un texto de superíndice. Usar <sup> </sup> ` <sup> Superindice </su
 Las alertas son mensajes de advertencia, información o nota que se destacan visualmente para captar la atención del lector.  
 Algunos ejemplos de alertas son:
 
-`> [!NOTE]`
+`> [!NOTE]`  
 `> Destaca información`
 
-`> [!IMPORTANT]`
+`> [!IMPORTANT]`  
 `> Información crucial o necesaria.`
 
-`> [!WARNING]`
+`> [!WARNING]`  
 `> Contenido crítico que requiere atención inmediata (riesgo potencial).`
 
 Resultado: 
